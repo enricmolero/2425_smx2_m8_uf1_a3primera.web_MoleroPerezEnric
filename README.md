@@ -7,3 +7,6 @@ La primera página web era como un cartel en internet que explicaba qué era la 
 No tenía imágenes ni videos.
 
 Fue como el primer paso para crear internet como lo conocemos hoy en día.
+
+Este era Tim Berners-Lee:
+![Tim Berners-Lee](https://raw.githubusercontent.com/enricmolero/2425_smx2_uf1_a2primera.web_MoleroPerezEnric/refs/heads/main/_105980828_9407011_31-a4-at-144-dpi.jpg.webp)
